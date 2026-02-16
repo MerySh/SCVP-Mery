@@ -1,0 +1,3 @@
+/home/meri/projects/SCVP-Mery/Exercise2/build/CMakeFiles/exercise2.dir
+/home/meri/projects/SCVP-Mery/Exercise2/build/CMakeFiles/edit_cache.dir
+/home/meri/projects/SCVP-Mery/Exercise2/build/CMakeFiles/rebuild_cache.dir
